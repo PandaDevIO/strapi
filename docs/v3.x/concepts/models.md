@@ -948,10 +948,10 @@ _Parameters:_
 
 _Parameters:_
 
-| Name   | Type   | Description                  |
-| ------ | ------ | ---------------------------- |
-| result | Object | Deleted entry                |
-| params | Object | Find params _(e.g: filters)_ |
+| Name   | Type                    | Description                  |
+| ------ | ----------------------- | ---------------------------- |
+| result | Object or Array{Object} | Deleted entry or entries     |
+| params | Object                  | Find params _(e.g: filters)_ |
 
 :::
 
